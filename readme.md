@@ -25,6 +25,7 @@ Given that you have a database schema as below:
 ```
 
 Explain how would you query a record and display it to the user when visiting the uri `http://{domain}/news/{slug}` where slug is equivalent to the `slug` column in the table.
+don't know
 
 
 #### Question 4
@@ -33,18 +34,25 @@ How can you prevent sql injection when providing for the solution in question 3.
 
 #### Question 5
 Explain how to create a page where user can create a news entry into the database.
+write the HTML code for sign up page
+
 
 #### Question 6
 Explain how can you validate input from user in question 5.
 
+
 #### Question 7
 Explain how can you save a user session when a user has logged in and how to retrieve the session.
+don,t know
 
 #### Question 8
 Show how can you prevent file upload with size not more than 2MB and only to accept `pdf` file.
+don,t know
 
 #### Question 9
 Based on the schema in question 3, show how you write a migration class to create the table using codeigniter.
+don,t know
 
 #### Question 10
 What do you think of codeigniter compared to other PHP frameworks available e.g Laravel, Symfony, CakePHP
+Interesting frameworks, easy to learn
